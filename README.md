@@ -21,4 +21,7 @@ The Telegram HTML parsing is limited to [only certain HTML tags as defined in Te
 
 ## Location and Venue Notification
 
-To send Location or Venue Notification, you can use the function `sendLocation` and `sendVenue` in `TelegramService.cfc` 
+To send Location or Venue Notification using the Telegram service, you can use the function `sendLocation` and `sendVenue` in `TelegramService.cfc` 
+
+You can specify the `longitude` and `latitude` for the Location and you can include `title` and `address` as well for Venue.
+
