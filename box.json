@@ -1,0 +1,21 @@
+{
+    "name":"Preside Extension: Telegram Bot",
+    "type":"preside-extensions",
+    "version":"0.1.0",  
+    "homepage" : "https://github.com/seakchiew/preside-ext-telegram-bot"
+    "documentation" : "https://github.com/seakchiew/preside-ext-telegram-bot"
+    "location":"https://github.com/seakchiew/preside-ext-telegram-bot/archive/v0.1.0.zip",
+    "private":false,
+    "author":"Seak Chiew Lee",
+    "directory":"application/extensions",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/seakchiew/preside-ext-telegram-bot"
+    },
+    "slug":"preside-ext-telegram-bot",
+    "ignore":[
+        ".git/*",
+        ".gitignore",
+        ".twgit_features_subject"
+    ]
+}

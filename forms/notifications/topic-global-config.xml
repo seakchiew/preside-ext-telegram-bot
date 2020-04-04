@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form>
+	<tab id="basic">
+		<fieldset id="basic" sortorder="10">
+			<field sortorder="10" binding="admin_notification_topic.save_in_cms" />
+			<field sortorder="15" binding="admin_notification_topic.available_to_groups" />
+			<field sortorder="30" binding="admin_notification_topic.telegram_chat"  />
+		</fieldset>
+	</tab>
+</form>
